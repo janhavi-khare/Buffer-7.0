@@ -6,7 +6,7 @@
 
 ## 📽️ Demo Video
 
-**[▶ Watch Demo]((https://drive.google.com/drive/folders/17VGOnwmzpo-PoxPG4b9siuLrlAKB3-UO?usp=sharing))**
+(https://drive.google.com/drive/folders/17VGOnwmzpo-PoxPG4b9siuLrlAKB3-UO?usp=sharing)
 
 ---
 
