@@ -166,6 +166,6 @@ private int disasterRate;       // % chance per step of a disaster spawning (0â€
 
 ## ğŸ‘¥ Authors
 
-Janhavi Khare
-Kavya Thacker
-Rujuta Walavalkar
+Janhavi Khare, 
+Kavya Thacker, 
+Rujuta Walavalkar, 
