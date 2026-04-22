@@ -168,4 +168,4 @@ private int disasterRate;       // % chance per step of a disaster spawning (0â€
 
 Janhavi Khare, 
 Kavya Thacker, 
-Rujuta Walavalkar, 
+Rujuta Walavalkar
